@@ -8,5 +8,16 @@
    <body>
        <h2>Bienvenidos a Mi Web</h2>
        <p>Esta es una página creada con <strong>HTML y CSS</strong>.</p>
+      <table>
+         <tr>
+            <td>Esto es la celda de una tabla</td>
+            <td>Otra casilla más</td>
+         </tr>
+         <tr>
+            <td>No se que mas poner</td>
+            <td>Simplemente estoy rellenando un poco</td>
+         </tr>
+         <img src="https://github.com/user-attachments/assets/81dffac9-f1ed-4176-b6d0-0c75b6099c79" alt="rana">
+         <a href="https://github.com/Alvaro608/README.md.git">
    </body>
 </html>
