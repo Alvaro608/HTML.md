@@ -17,6 +17,7 @@
             <td>No se que mas poner</td>
             <td>Simplemente estoy rellenando un poco</td>
          </tr>
+      </table>
          <img src="https://github.com/user-attachments/assets/81dffac9-f1ed-4176-b6d0-0c75b6099c79" alt="rana">
          <a href="https://github.com/Alvaro608/README.md.git">Hiperenlace a la otra pagina</a>
    </body>
